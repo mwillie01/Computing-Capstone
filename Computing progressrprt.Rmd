@@ -3,3 +3,5 @@ The game will consist of falling cubes containing mathematical equations. The an
 Used resources will include the Unity game engine, and visual stude integrated development environment (IDE)
 Current data we have generated include four 2-D cube shapes colliding with a square sprite, these images were generated in Unity.
 These Unity files were uploaded under the file "assets" and uploaded to a public GitHub repository.
+One resource that was considered for the visual aspect of the video game was ASCII art; the images would be embedded into the code.
+The goal of using ASCII art would be for the coded images to appear after the math problems were completed, either correclty or incorrectly; a subsequent image would appear for either circumstance.
