@@ -1,0 +1,5 @@
+Goals for this project including creating an educational computer game for 2nd-3rd graders.
+The game will consist of falling cubes containing mathematical equations. The answer to the problem must be entered before the cube hits the "ground" and shatters.
+Used resources will include the Unity game engine, and visual stude integrated development environment (IDE)
+Current data we have generated include four 2-D cube shapes colliding with a square sprite, these images were generated in Unity.
+These Unity files were uploaded under the file "assets" and uploaded to a public GitHub repository.
